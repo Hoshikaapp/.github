@@ -18,7 +18,7 @@ watch parties, challenges with friends, clans, a real activity feed and your yea
 
 [![Website](https://img.shields.io/badge/hoshika.app-visit-C5B38F?style=for-the-badge&labelColor=0A0B0F)](https://hoshika.app)
 [![X (Twitter)](https://img.shields.io/badge/@hoshikaapp-follow-C5B38F?style=for-the-badge&labelColor=0A0B0F&logo=x&logoColor=white)](https://x.com/hoshikaapp)
-[![Android](https://img.shields.io/badge/Android-coming%20soon-C5B38F?style=for-the-badge&labelColor=0A0B0F&logo=android&logoColor=white)](https://hoshika.app)
+[![Android](https://img.shields.io/badge/Android-download%20APK-C5B38F?style=for-the-badge&labelColor=0A0B0F&logo=android&logoColor=white)](https://github.com/Hoshikaapp/releases/releases/latest)
 
 <br />
 
@@ -42,6 +42,7 @@ watch parties, challenges with friends, clans, a real activity feed and your yea
 
 ## Repositories
 
+- **[releases](https://github.com/Hoshikaapp/releases)** — 📱 download Hoshika for Android
 - **hoshika** — the platform (Next.js 16, PostgreSQL, Meilisearch, Redis)
 - **hoshika-android** — the official Android app (Expo / React Native)
 
