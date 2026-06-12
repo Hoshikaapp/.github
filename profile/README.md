@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Hoshika — the social anime & manga platform" width="100%" />
+<img src="assets/banner.jpg" alt="Hoshika — the social anime & manga platform" width="100%" />
 
 <br />
 <br />
